@@ -1,0 +1,4 @@
+name: xpDisplay
+version: '${project.version}'
+main: org.taekungz.xpdisplay.XpDisplay
+api-version: '1.21'

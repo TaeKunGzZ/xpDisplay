@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="xpDisplay:jar">
+    <output-path>E:/pv Server Test/test4 serv/plugins</output-path>
+    <root id="archive" name="xpDisplay.jar">
+      <element id="module-output" name="xpDisplay" />
+    </root>
+  </artifact>
+</component>

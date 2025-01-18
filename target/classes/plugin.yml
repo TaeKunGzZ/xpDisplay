@@ -1,0 +1,4 @@
+name: xpDisplay
+version: '1.0-SNAPSHOT'
+main: org.taekungz.xpdisplay.XpDisplay
+api-version: '1.21'
