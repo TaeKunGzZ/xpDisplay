@@ -11,5 +11,5 @@
 ---
 ## Download
 - Minecraft Supported Version: ***1.21+***
-- 
+- https://github.com/TaeKunGzZ/xpDisplay/releases/tag/v1.0-xpb100.a10
 ---
