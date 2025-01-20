@@ -7,7 +7,7 @@
 - Example Image
 - ![image](https://github.com/user-attachments/assets/8c0ef1ba-bcfe-4d5f-909a-1e2a1a138d20)
 
-## Version: 0.1
+## Version: 1.0-xpb1000.a10
 
 ## Download
 - Minecraft Supported Version: ***1.21+***
