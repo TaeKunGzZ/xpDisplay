@@ -6,8 +6,7 @@ Now, it’s possible to see exactly how many experience orbs you’ve collected.
 
 This plugin adds a feature that allows you to view the amount of experience orbs you’ve received.
 ## ⭐ Changes
-- when player gains experiences, actionbar will be shown how much they gained.
-- and when item that has mending repaired
+- added config file that you can change actionbar message only "EXP Gained/Mending Repaired"
 
 ## 📸 Screenshots
 - Example Image
@@ -16,6 +15,6 @@ This plugin adds a feature that allows you to view the amount of experience orbs
 - Example Image
 - ![image](https://github.com/user-attachments/assets/8c0ef1ba-bcfe-4d5f-909a-1e2a1a138d20)
 
-## Version: 1.0-xpb1000.a10
+## Version: 1.1-xpb1001.a01
 # Download
 > [**Modrinth Download**](https://modrinth.com/plugin/xpdisplay)
