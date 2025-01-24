@@ -14,7 +14,7 @@ public class Listener implements org.bukkit.event.Listener {
         Player player = event.getPlayer();
         int expGained = event.getExperienceOrb().getExperience();
 
-        player.sendActionBar("§aEXP Gained§f: §6+" + ChatColor.GOLD + expGained);
+        player.sendActionBar(XpDisplay.xpGained + "§f: §6+" + ChatColor.GOLD + expGained);
     }
 
     @EventHandler
@@ -27,6 +27,6 @@ public class Listener implements org.bukkit.event.Listener {
         int maxDurability = item.getType().getMaxDurability();
         String durabilityDisplay = " §8(" + ChatColor.YELLOW + currentDurability + "§7/" + ChatColor.DARK_GREEN + maxDurability + "§8)";
 
-        player.sendActionBar("§aMending Repaired§f: §6+" + ChatColor.GOLD + expAmount + durabilityDisplay);
+        player.sendActionBar( XpDisplay.mendRepaired + "§f: §6+" + ChatColor.GOLD + expAmount + durabilityDisplay);
     }
 }
