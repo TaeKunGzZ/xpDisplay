@@ -1,0 +1,5 @@
+# use § + <letter/num> to change color
+
+actionbar:
+  xp_gained: §aEXP Gained
+  mending_repaired: §aMending Repaired
