@@ -6,7 +6,7 @@ Now, it’s possible to see exactly how many experience orbs you’ve collected.
 
 This plugin adds a feature that allows you to view the amount of experience orbs you’ve received.
 ## ⭐ Changes
-- Version of plugin has been changed to 1.0-252601 instead of 1.x-xpy1xxx.a1x
+- version of plugin has been changed to 1.0-252601 instead of 1.x-xpy1xxx.a1x
 
 ## 📸 Screenshots
 - Example Image
