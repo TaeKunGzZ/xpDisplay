@@ -6,7 +6,7 @@
 
   <groupId>org.taekungz</groupId>
   <artifactId>xpDisplay</artifactId>
-  <version>1.0-252601</version>
+  <version>1.0.0-252601-R</version>
   <packaging>jar</packaging>
 
   <name>xpDisplay</name>
