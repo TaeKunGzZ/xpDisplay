@@ -1,7 +1,7 @@
 # xpDisplay
 ---
 ## Changes
-> Added config file that you can change actionbar message only "EXP Gained/Mending Repaired"
+> Version of plugin has been changed to 1.0-252601 instead of 1.x-xpb1xxx.a1x
 ---
 ## Screenshots
 - Example Image
