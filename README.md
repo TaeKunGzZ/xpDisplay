@@ -1,7 +1,7 @@
 # xpDisplay
 ---
 ## Changes
-> Version of plugin has been changed to 1.0-252601 instead of 1.x-xpb1xxx.a1x
+- Version of plugin has been changed to 1.0-252601 instead of 1.x-xpb1xxx.a1x
 ---
 ## Screenshots
 - Example Image
@@ -14,5 +14,5 @@
 ---
 ## Download
 - Minecraft Supported Version: ***1.21+***
-- 
+> [**Modrinth Download**](https://modrinth.com/plugin/xpdisplay)
 ---
