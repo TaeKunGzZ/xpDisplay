@@ -1,4 +1,4 @@
 name: xpDisplay
-version: '1.0-252601'
+version: '1.0.0-252601-R'
 main: org.taekungz.xpdisplay.XpDisplay
 api-version: '1.21'
